@@ -1,0 +1,6 @@
+streamlit
+boto3
+python-dotenv
+faiss-cpu
+PyPDF2
+docx2txt
