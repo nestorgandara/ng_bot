@@ -29,3 +29,6 @@ A sleek, **AI-powered document assistant** built with Streamlit, FAISS, and AWS 
 - `faiss-cpu`  
 - `PyPDF2`  
 - `docx2txt`  
+
+## License
+This project is licensed under the MIT License, allowing others to use, modify, and share the code with attribution.
